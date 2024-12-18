@@ -1,4 +1,6 @@
 # 4Thrifters Market Place System
+**Author**: Joseph Nchimunya  
+**Date**: November 20, 2024  
 
 ---
 
